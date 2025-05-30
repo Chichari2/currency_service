@@ -1,0 +1,6 @@
+#!/Users/artemvologdin/Desktop/currency_service/.venv/bin/python
+import sys
+from currency_service.main import main
+
+if __name__ == '__main__':
+    sys.exit(main())
