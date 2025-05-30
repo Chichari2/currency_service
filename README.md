@@ -118,4 +118,4 @@ poetry.lock                  # Lock-файл Poetry
 ## 🧠 Автор
 
 Artem Vologdin  
-Junior Python Backend Developer
+Python Backend Developer
